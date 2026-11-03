@@ -1,0 +1,5 @@
+# berisi password database: jangan pernah di-commit
+.env
+__pycache__/
+*.pyc
+.venv/
